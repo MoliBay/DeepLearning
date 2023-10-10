@@ -1,2 +1,5 @@
 # DeepLearning
-DeepLearning: VGGNet ResNet GAN
+DeepLearning: 
+VGGNet 
+ResNet50
+GAN
